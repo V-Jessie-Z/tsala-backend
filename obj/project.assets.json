@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend/TsalaBackend.csproj",
+      "projectUniqueName": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend.csproj",
       "projectName": "TsalaBackend",
-      "projectPath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend/TsalaBackend.csproj",
+      "projectPath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend.csproj",
       "packagesPath": "/Users/JessicaZimondi/.nuget/packages/",
-      "outputPath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend/obj/",
+      "outputPath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/JessicaZimondi/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+bLc2/mdew=",
+  "dgSpecHash": "k+U7CwC1N2I=",
   "success": true,
-  "projectFilePath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend/TsalaBackend.csproj",
+  "projectFilePath": "/Users/JessicaZimondi/Projects/Github/tsala-backend/TsalaBackend.csproj",
   "expectedPackageFiles": [
     "/Users/JessicaZimondi/.nuget/packages/microsoft.aspnetcore.openapi/8.0.15/microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
     "/Users/JessicaZimondi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
