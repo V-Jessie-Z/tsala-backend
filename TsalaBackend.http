@@ -1,0 +1,6 @@
+@TsalaBackend_HostAddress = http://localhost:5100
+
+GET {{TsalaBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
